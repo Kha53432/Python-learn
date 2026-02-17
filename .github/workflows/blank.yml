@@ -1,0 +1,3 @@
+character_name = "Dương Gian"
+character_age = "18
+print(f"Ta tên là {character_name)/n Khi ngươi nhìn thấy dòng chữ này/n nghĩa là ta đã chết"}
